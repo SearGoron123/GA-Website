@@ -1,0 +1,14 @@
+ body {
+ background-color: black;
+ text-align: center;
+ }
+ h1
+ {
+	 color: #2196f3;
+ }
+ button {
+	 padding-top: 60px;
+ }
+ section{
+	min-height: 250px;
+ }
